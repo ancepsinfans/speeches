@@ -1,0 +1,1 @@
+allsens[allsens['person']==sendict[i]].mean()
